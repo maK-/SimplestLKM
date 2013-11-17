@@ -3,7 +3,7 @@ SimplestLKM
 
 "Hello World" Linux Kernel Module
 
-Read our simple example messages in /var/log/messages
+Read simple output example messages in /var/log/messages
 
 to install...
 
